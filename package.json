@@ -1,0 +1,11 @@
+{
+  "name": "hermes-composer-spellcheck",
+  "version": "0.1.0-experimental",
+  "private": true,
+  "description": "Experimental native spell-check desktop plugin for Hermes. Not catalog-approved.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/plugin.test.mjs"
+  }
+}
